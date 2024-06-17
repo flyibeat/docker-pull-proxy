@@ -1,1 +1,3 @@
-ghcr.io/home-assistant/qemux86-64-homeassistant:latest registry.cn-hangzhou.aliyuncs.com/flyibeat/homeassistant:latest
+ghcr.io/home-assistant/qemux86-64-homeassistant:stable registry.cn-hangzhou.aliyuncs.com/flyibeat/homeassistant:stable
+ghcr.io/home-assistant/amd64-hassio-supervisor:latest registry.cn-hangzhou.aliyuncs.com/flyibeat/amd64-hassio-supervisor:latest
+ghcr.io/hassio-addons/node-red/amd64:stable registry.cn-hangzhou.aliyuncs.com/flyibeat/node-red:stable
