@@ -1,1 +1,1 @@
-ghcr.io/home-assistant/qemux86-64-homeassistant:2024.6.1 registry.cn-hangzhou.aliyuncs.com/flyibeat/homeassistant:2024.6.1
+ghcr.io/home-assistant/qemux86-64-homeassistant:2024.6.1 registry.cn-hangzhou.aliyuncs.com/flyibeat/2homeassistant:2024.6.1
