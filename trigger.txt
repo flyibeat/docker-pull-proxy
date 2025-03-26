@@ -3,6 +3,6 @@ ghcr.io/home-assistant/amd64-hassio-supervisor:latest registry.cn-hangzhou.aliyu
 ghcr.io/hassio-addons/node-red/amd64:stable registry.cn-hangzhou.aliyuncs.com/flyibeat/node-red:stable
 ghcr.io/home-assistant/amd64-hassio-supervisor registry.cn-hangzhou.aliyuncs.com/flyibeat/amd64-hassio-supervisor
 ghcr.io/home-assistant/qemux86-64-homeassistant:beta registry.cn-hangzhou.aliyuncs.com/flyibeat/homeassistant:b1
-ghcr.io/hassio-addons/node-red/amd64:18.1.1 registry.cn-hangzhou.aliyuncs.com/flyibeat/node-red:18.1.1
+ghcr.io/hassio-addons/node-red/amd64:18.1.1 registry.cn-hangzhou.aliyuncs.com/flyibeat/node-red:18.1.2
 soulter/astrbot:latest registry.cn-hangzhou.aliyuncs.com/flyibeat/astrbot:latest
 mlikiowa/napcat-docker:latest registry.cn-hangzhou.aliyuncs.com/flyibeat/napcat-docker:latest
