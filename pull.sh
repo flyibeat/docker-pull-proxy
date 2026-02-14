@@ -13,8 +13,8 @@ cat trigger.txt |awk '{print "docker pull " $1} '| sh
 # cat trigger.txt |awk '{print "docker pull --platform linux/arm64 " $1} '| sh
 
 # inspect Architectur
-# cat trigger.txt |awk '{print "docker image inspect  " $1 "| grep Architectur" } '
-# cat trigger.txt |awk '{print "docker image inspect  " $1 "| grep Architectur" } '| sh
+cat trigger.txt |awk '{print "docker image inspect  " $1 "| grep Architectur" } '
+cat trigger.txt |awk '{print "docker image inspect  " $1 "| grep Architectur" } '| sh
 
 # docker tag
 cat trigger.txt |awk '{print "docker tag "$1 " " $2} '
