@@ -5,3 +5,4 @@ ghcr.io/home-assistant/amd64-hassio-supervisor registry.cn-hangzhou.aliyuncs.com
 ghcr.io/home-assistant/qemux86-64-homeassistant:beta registry.cn-hangzhou.aliyuncs.com/flyibeat/homeassistant:b1
 ghcr.io/home-assistant/qemux86-64-homeassistant:stable registry.cn-hangzhou.aliyuncs.com/momoali/homeassistant:stable
 mlikiowa/napcat-docker:latest registry.cn-hangzhou.aliyuncs.com/flyibeat/napcat-docker:latest
+ghcr.io/hassio-addons/node-red/amd64:21.0.1 registry.cn-hangzhou.aliyuncs.com/flyibeat/node-red:21.0.1
