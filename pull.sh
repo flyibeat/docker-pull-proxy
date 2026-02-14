@@ -21,5 +21,5 @@ cat trigger.txt |awk '{print "docker tag "$1 " " $2} '
 cat trigger.txt |awk '{print "docker tag "$1 " " $2} '| sh
 
 # docker push
-cat trigger.txt |awk '{print "docker push " $2} '
-cat trigger.txt |awk '{print "docker push " $2} '| sh
+cat trigger.txt |awk '{print "docker push --platform linux/amd64 " $2} '
+cat trigger.txt |awk '{print "docker push --platform linux/amd64 " $2} '| sh
